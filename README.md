@@ -1,2 +1,1 @@
-# xingkong
 hello world!
